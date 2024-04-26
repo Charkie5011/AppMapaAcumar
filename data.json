@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "icono":"./imgs/1x/estacion acumar.png",
+      "titulo": "Estacion Acumar",
+      "imagen": "./imgs//lugares/estacionAcumar.jpg",
+      "bajada": "La Estación de Promoción e Interpretación Ambiental de ACUMAR en La Boca es un espacio dedicado a la educación ambiental y la divulgación de información sobre la recuperación de la Cuenca Matanza-Riachuelo. ¡Vení y conocé más!",
+      "coords": {
+        "x": 243,
+        "y": 243
+      }
+    },
+    {
+      "id": 2,
+      "icono":"./imgs/1x/puente transbordador.png",
+      "titulo": "Transbordador Nicolás Avellaneda",
+      "imagen": "./imgs/lugares/transbordador.jpg",
+      "bajada": "Descubre el fascinante Transbordador Nicolás Avellaneda, que ha conectado la Isla Maciel con la ciudad de Buenos Aires durante décadas. Desde sus inicios hasta su función actual, este servicio ha sido vital para la comunidad",
+      "coords": {
+        "x": 414,
+        "y": 179
+      }
+    },
+    {
+      "id": 3,
+      "icono":"./imgs/1x/cruce de bote a remo.png",
+      "titulo": "Cruce de bote a remo",
+      "imagen": "./imgs/lugares/boteros.jpg",
+      "bajada": "Ven y únete a nosotros en esta experiencia única y sumérgete en la rica historia y cultura de la Isla Maciel mientras cruzas el emblemático Riachuelo. ¡Revive la historia, la importancia y la lucha por preservar el cruce en bote a remo en el Riachuelo desde La Boca hasta la Isla Maciel! ¡Descubre un legado perdido en el tiempo!.",
+      "coords": {
+        "x": 471,
+        "y": 187
+      }
+    },
+    {
+      "id": 4,
+      "icono":"./imgs/1x/puente nicolas avellaneda.png",
+      "titulo": "Puente peatón y carretero",
+      "imagen": "./imgs/lugares/puente naranja.jpg",
+      "bajada": "¡Descubre el Puente Nicolás Avellaneda! El Puente Nicolás Avellaneda, también conocido como Puente Avellaneda, es una estructura vial que conecta la Ciudad Autónoma de Buenos Aires (CABA) con la Isla Maciel, ubicada en el partido de Avellaneda, Provincia de Buenos Aires, Argentina.",
+      "coords": {
+        "x": 457,
+        "y": 131
+      }
+    },
+    {
+      "id": 5,
+      "icono":"./imgs/1x/residencias.png",
+      "titulo": "Residencias",
+      "imagen": "./imgs/lugares/recidencias.jpg",
+      "bajada": "Las residencias de chapa en la Isla Maciel, al igual que en muchos otros barrios populares de Argentina, suelen tener una arquitectura sencilla y característica. Estas viviendas se construyen principalmente con chapas metálicas, que son planchas delgadas de metal.",
+      "coords": {
+        "x": 524,
+        "y": 270
+      }
+    },
+    {
+      "id": 6,
+      "icono":"./imgs/1x/museo del carpintero del rivera.png",
+      "titulo": "Casa Museo del Carpintero de Ribera",
+      "imagen": "./imgs/lugares/museo.jpg",
+      "bajada": "La carpintería de Ribera en Isla Maciel tiene una larga tradición. Los carpinteros de ribera construían barcos para la pesca en los ríos de Buenos Aires. En Museo del Carpintero de Ribera continua esta tradición, fabricando embarcaciones con las mejores técnicas artesanales.",
+      "coords": {
+        "x": 467,
+        "y": 362
+      }
+    },
+    {
+      "id": 7,
+      "icono":"./imgs/1x/filmacion.png",
+      "titulo": "Filmaciones",
+      "imagen": "./imgs/lugares/filmaciones.jpg",
+      "bajada": "La Isla Maciel,en Avellaneda, Argentina,hasido escenario de algunas películas y filmaciones a lo largo de los años.Esta es una de las tantas esquinas donde se filmaron películas.",
+      "coords": {
+        "x": 560,
+        "y": 342
+      }
+    },
+    {
+      "id": 8,
+      "icono":"./imgs/1x/murales.png",
+      "titulo": "Murales",
+      "imagen": "./imgs/lugares/murales.jpg",
+      "bajada": "Los murales en la Isla Maciel han desempeñado un papel fundamental en la transformación del barrio, convirtiéndolo en un lugar de gran interés cultural y artístico. Estas obras han permitido que los vecinos expresen su identidad, su historia y sus luchas, al tiempo que han embellecido el entorno urbano y han atraído a visitantes interesados en el arte callejero y la cultura local.",
+      "coords": {
+        "x": 504,
+        "y": 397
+      }
+    },
+    {
+        "id": 9,
+        "icono":"./imgs/1x/mural niñez.png",
+        "titulo": "Mural de las Infancias",
+        "imagen": "./imgs/lugares/infancia.jpg",
+        "bajada": "Mural dedicado a las infancias de Isla Maciel. Obra realizada por Juan Dana",
+        "coords": {
+          "x": 551,
+          "y": 434
+        }
+      },
+      {
+          "id": 10,
+          "icono":"./imgs/1x/mural jugador santelmo.png",
+          "titulo": "Mural Jugador de santelmo",
+          "imagen": "./imgs/lugares/jugador santelmo.jpg",
+          "bajada": "Mural jugador San Telmo.Mural de Pedro Coronel, uno de los ídolos del Club San Telmo, equipo principal del barrio. En el año 1975 se logró la hazaña y se llega a la máxima categoría. De la misma el recuerdo imborrable del triunfo ante el bicampeón del 76, Boca Junior por 3 a 1 en cancha de Huracán con un gol de Coronel.",
+          "coords": {
+            "x": 495,
+            "y": 428
+         
+          }
+        },
+        {
+            "id": 11,
+            "icono":"./imgs/1x/mural maradona.png",
+            "titulo": "Maradona Y Dalma",
+            "imagen": "./imgs/lugares/maradona.jpg",
+            "bajada": "",
+            "coords": {
+              "x": 620,
+              "y": 454
+            }
+          },
+          {
+              "id": 12,
+              "icono":"./imgs/1x/iglesia.png",
+              "titulo": "NuestraSeñora de Fatima",
+              "imagen": "./imgs/lugares/iglesia.jpg",
+              "bajada": "",
+              "coords": {
+                "x": 521,
+                "y": 459
+              }
+      }
+  ]
+}
+    

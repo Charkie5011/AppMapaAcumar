@@ -1,0 +1,229 @@
+body{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ /*Mapa*/
+#cajaMapa{
+    background-image: url("./imgs/MapaSatelital.PNG");
+    position: relative;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    /*margin-left: 5em;
+    margin-right: 5em;*/
+    border-radius: 8px;
+    width: 742px;
+    height: 608px;
+    object-fit: cover;
+}
+
+#root{
+    display: grid;
+    grid-template-rows: auto auto auto;
+    justify-items: center;
+    
+}
+
+
+.encabezado{
+    width: 100%;
+    height: auto;
+    background-color: #228CDB;
+    display: grid;
+    grid-template-columns: auto auto;
+    align-content: space-evenly;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0.25em;
+}
+
+.encabezado h1{
+    color: white;
+    padding-left: 0.5em;
+}
+.logoAcumar{
+    width: 3em;
+    height: auto;
+    padding: 24px;
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+    justify-content: start;
+
+}
+.pie{
+    margin: 0px;
+    width: 100%;
+    height: auto;
+    padding-top: 1em;
+    padding-bottom: 2em;
+    background-color: #228CDB;
+    color: white;
+    font-size: 8px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+.marcador{
+    position: absolute;
+}
+
+.infoModal{
+    width: 300px;
+    height: auto;
+    background-color: #d8eaf7;
+    border-radius: 8px;
+    display: flex;
+    z-index: 999;
+    position: absolute;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 8px;
+    box-shadow: 0px 1px 10px #595959;
+}
+
+.imgInfo{
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+}
+
+/*Caratula*/
+#raizCaratula{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+}
+
+.facultad{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    font-size: 12px;
+    padding-left: 10em;
+    padding-right: 10em;
+    background-color: #228CDB;
+    color: white;
+}
+
+.año{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    font-size: 12px;
+
+}
+
+#materiayPrototipo{
+    display: flex;
+    width: 100%;
+    align-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.btnPrototipo{
+    background-color: #228CDB;
+    padding: 2em;
+    border-radius: 8px;
+}
+
+.btnPrototipo a{
+    color: white;
+    text-decoration: none;
+}
+
+.btnPrototipo:hover{
+    background-color: #648ba8;
+}
+
+
+.materia{
+    display: flex;
+    align-content: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    
+    width: 50%;
+    justify-self: left;
+}
+
+.materia p{
+    font-size: 12px;
+}
+.materia h3{
+    color: #228CDB;
+}
+
+.materia h4{
+    margin: 0px;
+}
+.estudiantesContenedor
+{
+    display: grid;
+    grid-template-rows: auto auto;
+    justify-content: space-around;
+    align-items: center;
+    align-content: space-evenly;
+    background-color: #228CDB;
+    color: white;
+    border-radius: 8px;
+    padding-inline: 24px;
+    margin-top: 3em;
+    padding-bottom: 2em;
+}
+.grupo{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-column-gap: 24px;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+.titulo{
+    display: grid;
+    margin-top: 4em;
+    width: 100%;
+}
+.titulo h1{
+    font-size: 30pt;
+    margin-top: 0px;
+    margin-bottom: 3em;
+}
+.infoTecnica{
+    margin-top: 3em;
+    
+    margin-bottom: 5em;
+}
+
+.tecnologias{
+    display: grid;
+    grid-template-columns: auto;
+    width: 100%;
+}
+.tecnologias ul{
+    list-style: none;
+    padding-inline-start: 0.4em;
+}
+
+
+.tecnologias li{
+    margin: 0px;
+}
+#listaTecnologias{
+    grid-template-columns: auto auto;
+    display: grid;
+    grid-column-gap: 3em;
+    font-size: 12px;
+}
